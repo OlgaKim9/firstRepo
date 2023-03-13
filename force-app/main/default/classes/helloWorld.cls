@@ -1,7 +1,7 @@
 public with sharing class helloWorld {
     public helloWorld() {
 
-    system.debug('Hello World');
+    system.debug('Hello World 54');
 
     }
 }
